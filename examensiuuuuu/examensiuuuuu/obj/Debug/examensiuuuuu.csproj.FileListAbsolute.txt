@@ -1,0 +1,6 @@
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/obj/Debug/examensiuuuuu.csproj.AssemblyReference.cache
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/obj/Debug/examensiuuuuu.csproj.CoreCompileInputs.cache
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/bin/Debug/examensiuuuuu.exe
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/bin/Debug/examensiuuuuu.pdb
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/obj/Debug/examensiuuuuu.exe
+/Users/bernardopedrazas/Projects/examensiuuuuu/examensiuuuuu/obj/Debug/examensiuuuuu.pdb

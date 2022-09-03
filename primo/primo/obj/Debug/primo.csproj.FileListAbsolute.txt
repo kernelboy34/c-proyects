@@ -1,0 +1,6 @@
+/Users/bernardopedrazas/Projects/primo/primo/bin/Debug/primo.exe
+/Users/bernardopedrazas/Projects/primo/primo/bin/Debug/primo.pdb
+/Users/bernardopedrazas/Projects/primo/primo/obj/Debug/primo.csproj.AssemblyReference.cache
+/Users/bernardopedrazas/Projects/primo/primo/obj/Debug/primo.csproj.CoreCompileInputs.cache
+/Users/bernardopedrazas/Projects/primo/primo/obj/Debug/primo.exe
+/Users/bernardopedrazas/Projects/primo/primo/obj/Debug/primo.pdb

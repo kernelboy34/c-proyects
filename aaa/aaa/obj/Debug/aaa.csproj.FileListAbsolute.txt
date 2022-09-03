@@ -1,0 +1,6 @@
+/Users/bernardopedrazas/Projects/aaa/aaa/bin/Debug/aaa.exe
+/Users/bernardopedrazas/Projects/aaa/aaa/bin/Debug/aaa.pdb
+/Users/bernardopedrazas/Projects/aaa/aaa/obj/Debug/aaa.csproj.AssemblyReference.cache
+/Users/bernardopedrazas/Projects/aaa/aaa/obj/Debug/aaa.csproj.CoreCompileInputs.cache
+/Users/bernardopedrazas/Projects/aaa/aaa/obj/Debug/aaa.exe
+/Users/bernardopedrazas/Projects/aaa/aaa/obj/Debug/aaa.pdb

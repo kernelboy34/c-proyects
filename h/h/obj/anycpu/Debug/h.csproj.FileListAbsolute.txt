@@ -1,0 +1,6 @@
+/Users/bernardopedrazas/Projects/h/h/bin/Debug/h.exe
+/Users/bernardopedrazas/Projects/h/h/bin/Debug/h.pdb
+/Users/bernardopedrazas/Projects/h/h/obj/anycpu/Debug/h.csproj.AssemblyReference.cache
+/Users/bernardopedrazas/Projects/h/h/obj/anycpu/Debug/h.csproj.CoreCompileInputs.cache
+/Users/bernardopedrazas/Projects/h/h/obj/anycpu/Debug/h.exe
+/Users/bernardopedrazas/Projects/h/h/obj/anycpu/Debug/h.pdb
